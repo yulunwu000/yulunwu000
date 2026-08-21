@@ -1,16 +1,20 @@
-## Hi there 👋
+## Yulun Wu
 
-<!--
-**yulunwu000/yulunwu000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics at Imperial College London. Space plasma physics,
+with a habit of building instruments.
 
-Here are some ideas to get you started:
+**Here**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[artemis-lunar-plasma](https://github.com/yulunwu000/artemis-lunar-plasma)** —
+  ARTEMIS spacecraft data analysis of the solar wind's interaction with lunar
+  crustal magnetic anomalies. Python, pySPEDAS.
+- **[muondetector](https://github.com/yulunwu000/muondetector)** — portable
+  scintillator muon detector built at Imperial. PIC18 assembly, coincidence
+  timing, and the associated analysis.
+
+**Elsewhere**
+
+Some of my engineering work also live in society repositories:
+
+- **Balance-assistance exoskeleton** — [Imperial College Prosthetics Society](https://github.com/Prosthetics-Exoskeleton)
+- **Autonomous stratospheric balloon navigation** — [Imperial College Space Society](https://github.com/Prosthetics-Exoskeleton)
