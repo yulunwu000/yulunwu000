@@ -1,6 +1,6 @@
 ## hi, i'm yulun!
 
-Space plasma physics, with a habit of building instruments.
+I do space plasma physics, with a habit of building instruments.
 
 **Here**
 
