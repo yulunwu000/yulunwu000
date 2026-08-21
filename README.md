@@ -1,4 +1,4 @@
-## Yulun
+## yulun
 
 Physics at Imperial College London. Space plasma physics,
 with a habit of building instruments.
