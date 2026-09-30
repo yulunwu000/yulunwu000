@@ -16,4 +16,4 @@ I do physics and I like building things.
 Some of my engineering work also live in society repositories:
 
 - **Balance-assistance exoskeleton** — [Imperial College Prosthetics Society](https://github.com/Prosthetics-Exoskeleton)
-- **Autonomous stratospheric balloon navigation** — [Imperial College Space Society](https://github.com/Prosthetics-Exoskeleton)
+- **Autonomous stratospheric balloon navigation** — [Imperial College Space Society](https://github.com/Project-Stratus)
