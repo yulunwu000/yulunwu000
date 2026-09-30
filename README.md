@@ -1,6 +1,6 @@
 ## hi, i'm yulun!
 
-I do physics, with a habit of building instruments.
+I do physics and I like building things.
 
 **Here**
 
