@@ -5,7 +5,7 @@ I do physics and I like building things.
 **Here**
 
 - **[artemis-lunar-plasma](https://github.com/yulunwu000/artemis-lunar-plasma)** —
-  ARTEMIS spacecraft data analysis of the solar wind's interaction with lunar
+  ARTEMIS and SELENE spacecraft data analysis of the solar wind's interaction with lunar
   crustal magnetic anomalies. Python, pySPEDAS.
 - **[muondetector](https://github.com/yulunwu000/muondetector)** — portable
   scintillator muon detector built at Imperial. PIC18 assembly, coincidence
